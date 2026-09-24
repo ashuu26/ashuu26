@@ -1,6 +1,6 @@
 <h1 align="center">👋 <b>Hi, I'm Ashu Saini</b></h1> <h3 align="center"><b>☁️ Solutions Architect & Cloud Consultant @ SoftwareOne</b></h3> <p align="center">📍 Kuala Lumpur, Malaysia · 🧭 11 Years in IT · 🚀 250+ Workloads Migrated</p> <p align="center"> <a href="https://ashusaini.com"><img src="https://img.shields.io/badge/Portfolio-ashusaini.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 
-🏗️ About Me
+<p align="center"><b>🏗️ About Me </b></p>
 
 I design and build secure, well-governed cloud platforms across AWS and Azure, helping organizations, especially in regulated financial services, move to the cloud with confidence.
 
