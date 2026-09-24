@@ -8,30 +8,20 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 ⚡What I Work On
 
 🛡️ Landing Zones & Governance — AWS Control Tower, multi-account strategy, guardrails
-
 🧱 Infrastructure as Code — Terraform modules and reusable patterns
-
 🔄 Cloud Migrations — multi-cloud, large-scale workload moves
-
 💰 FinOps — cost visibility, optimization, and accountability
-
 🏦 Regulated Industries — BNM RMiT compliance for financial services
-
 🧰 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux,bash,python,docker,kubernetes,git,github,githubactions&theme=dark" /> </p>
 
 🏅 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
 ![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
 ![AWS CP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
 ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
 ![AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![DP-900](https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
