@@ -7,12 +7,18 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 ⚡What I Work On
 
 🛡️ Landing Zones & Governance — AWS Control Tower, multi-account strategy, guardrails
+
 🧱 Infrastructure as Code — Terraform modules and reusable patterns
+
 🔄 Cloud Migrations — multi-cloud, large-scale workload moves
+
 💰 FinOps — cost visibility, optimization, and accountability
+
 🏦 Regulated Industries — BNM RMiT compliance for financial services
+
 🧰 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux,bash,python,docker,kubernetes,git,github,githubactions&theme=dark" /> </p>
+
 🏅 Certifications
 
 
