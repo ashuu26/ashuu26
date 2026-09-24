@@ -13,7 +13,7 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 
 🔄 Cloud Migrations - multi-cloud, large-scale workload moves
 
-💰 FinOps - cost visibility, optimization, and accountability
+💰 FinOps - cost visibility, optimization and accountability
 
 🏦 Regulated Industries - BNM RMiT compliance for financial services
 
