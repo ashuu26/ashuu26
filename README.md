@@ -26,7 +26,7 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 
 
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
 <p align="center"><b>⭐ Building cloud foundations that are secure, compliant, and cost-aware ⭐</b></p>
 
 
