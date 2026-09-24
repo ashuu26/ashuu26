@@ -7,7 +7,7 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 
 <b>⚡What I Work On</b>
 
-🛡️ Landing Zones & Governance - AWS Control Tower, multi-account strategy, guardrails
+🛡️ Landing Zones & Governance - AWS Control Tower, Azure landing zone, multi-account strategy, guardrails, SCP's, encryption
 
 🧱 Infrastructure as Code - Terraform modules and reusable patterns
 
