@@ -5,7 +5,7 @@
 I design and build secure, well-governed cloud platforms across AWS and Azure, helping organizations, especially in regulated financial services, move to the cloud with confidence.
 
 
-⚡What I Work On
+<b>⚡What I Work On</b>
 
 🛡️ Landing Zones & Governance - AWS Control Tower, multi-account strategy, guardrails
 
@@ -20,7 +20,7 @@ I design and build secure, well-governed cloud platforms across AWS and Azure, h
 🧰 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux,bash,python,docker,kubernetes,git,github,githubactions&theme=dark" /> </p>
 
-🏅 Certifications
+<b>🏅 Certifications</b>
 
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
